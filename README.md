@@ -1,8 +1,8 @@
 # P-Stream Desktop (Legacy)
 
-A lightweight packaged Electron desktop app for PStream.
+A lightweight packaged Electron desktop app for P-Stream.
 
-This is the legacy version of the PStream desktop app. It is designed to use less memory compared to running PStream in Chrome, making it a more lightweight option for older or lower-end systems.
+This is the legacy version of the P-Stream desktop app. It is designed to use less memory compared to running P-Stream in Chrome, making it a more lightweight option for older or lower-end systems.
 
 ---
 
