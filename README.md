@@ -5,6 +5,11 @@ This is a packaged Electron app.
 
 this is the old pstream app. i like using it cus it uses less memory than on chrome. 
 
+## 📥 Download
+
+Download the latest version here:
+https://github.com/wntrlol/pstream-desktop-legacy/releases/tag/legacy
+
 ### Installation
 
 1. Extract the file.
