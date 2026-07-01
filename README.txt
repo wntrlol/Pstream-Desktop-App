@@ -1,3 +1,6 @@
+# pstream-desktop-legacy
+
+
 This is a packaged Electron app.
 
 this is the old pstream app. i like using it cus it uses less memory than on chrome. 
