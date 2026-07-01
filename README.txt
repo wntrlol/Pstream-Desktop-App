@@ -1,5 +1,5 @@
-# pstream-desktop-legacy
 
+# pstream-desktop-legacy
 
 This is a packaged Electron app.
 
