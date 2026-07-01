@@ -19,7 +19,7 @@ Download the latest version here:
 2. Extract the folder  
 3. Run `P-Stream.exe`  
 4. On first launch, it will ask for **P-Stream Setup**
-5. Enter the latest PStream domain or IP address  (example: `zstream.mov`)
+5. Enter the latest PStream domain or IP address  (example: `pstream.net`)
 
 ---
 
