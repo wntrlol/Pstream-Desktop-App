@@ -11,9 +11,6 @@ This is the legacy version of the PStream desktop app. It is designed to use les
 Download the latest version here:  
 👉 https://github.com/wntrlol/pstream-desktop-legacy/releases/tag/legacy
 
-Or go to Releases:  
-👉 https://github.com/wntrlol/pstream-desktop-legacy/releases
-
 ---
 
 ## ⚙️ Installation
